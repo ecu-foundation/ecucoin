@@ -1,0 +1,5 @@
+Building Pfennig
+
+See doc/build-*.md for instructions on building pfennigd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Pfennig.
